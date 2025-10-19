@@ -6,10 +6,10 @@
   <sub> ♡ systems development technician at etecsp ♡ undergraduate degree in technology management at fmu ♡ undergraduate course in systems architecture at fundação fat ♡ </sub><br>
   <sub> ♡ talking in native portuguese and english intermediate level (b2) ♡ </sub><br><br>
   you'll find me in: <br>
-  <a href="https://www.linkedin.com/in/luisajeronimodelima/" target="_blank">
+  <a href="https://www.linkedin.com/in/luisajeronimodelima/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a> 
-  <a href="mailto:luisalima135@gmail.com" target="_blank">
+  <a href="mailto:luisalima135@gmail.com" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   <br>
