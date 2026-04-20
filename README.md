@@ -3,7 +3,7 @@
     <img height="120em" src="https://github.com/user-attachments/assets/8136d70b-5f74-4f36-8f7f-250bf918dd8b"" />
   <br>
   hi, i 'm Luisa. i'm a beginner in tech and here you'll discover with me about system's architeture and  development.<br>
-  <sub> ♡ systems development technician at etecsp ♡ undergraduate degree in technology management at fmu ♡ undergraduate course in systems architecture at fundação fat ♡ </sub><br>
+  <sub> ♡ systems development technician at etecsp ♡ undergraduate degree in systems information at impacta ♡ especialization in systems architecture at fundação fat ♡ </sub><br>
   <sub> ♡ talking in native portuguese and english intermediate level (b2) ♡ </sub><br><br>
   you'll find me in: <br>
   <a href="https://www.linkedin.com/in/luisajeronimodelima/" target="_blank" rel="noopener noreferrer">
