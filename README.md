@@ -21,8 +21,8 @@
   <br>
   <div>
    <a href="https://github.com/luisajeronimo">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luisajeronimo&rank_icon=github&show_icons=true&count_private=true&hide_border=true&theme=buefy"/>
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisajeronimo&layout=compact&langs_count=10&hide_border=true&theme=buefy"/>
+   <img height="140em" src="https://github-readme-stats-luisa.vercel.app/api?username=luisajeronimo&rank_icon=github&show_icons=true&count_private=true&hide_border=true&theme=buefy"/>
+   <img height="140em" src="https://github-readme-stats-luisa.vercel.app/api/top-langs/?username=luisajeronimo&layout=compact&langs_count=10&hide_border=true&theme=buefy"/>
   </div>
 
   <br>
