@@ -20,7 +20,7 @@
   <div>
   ♡ 👩🏼‍💻 i'm studying daily: `restful apis`, `clean code`, `microservices`, `solid principles`, `scalable and high-performance systems` <br>
   ♡ 🪡 i like to do crafts in my free time, ping me about ceramics, embroidery and arts in general <br>
-  ♡ ⚙️ tools that i'm working with right now: <br> <img height="35em"src="https://skillicons.dev/icons?i=docker,kubernetes,postman,javascript,react,java,spring,mysql,azure,aws,githubactions,powerautomate,sharepoint" /> <br></div>
+  ♡ ⚙️ tools that i'm working with right now: <br> <img height="35em"src="https://skillicons.dev/icons?i=docker,kubernetes,postman,javascript,react,java,spring,mysql,azure,aws,githubactions" /> <br></div>
   <br>
   <div>
    <a href="https://github.com/luisajeronimo">
