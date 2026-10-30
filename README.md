@@ -1,37 +1,27 @@
 <div align="center">
-  
-  hi, i 'm Luisa. i'm a tech enthusiast and developer focused on building scalable systems architecture and backend development.<br>
-  <sub> ♡ systems development technician at etecsp ♡ undergraduate degree in systems information at impacta ♡ especialization in systems architecture at fundação fat ♡ </sub><br>
+
+  <h1>hi, i'm Luisa ♡</h1>
+  <p><strong>developer · ruby on rails · python · APIs · web scraping & automation</strong></p>
+  <sub>information systems undergraduate at Faculdade Impacta ♡ technical degree in systems development at ETEC-SP ♡ systems architecture studies at Fundação FAT</sub><br>
   <sub> ♡ talking in native portuguese and english intermediate level (b2) ♡ </sub> 
   
   <br>
-    <img height="120em" src="https://github.com/luisajeronimo/luisajeronimo/blob/main/images/dancingqueen.gif"" />
+    <img height="120em" src="https://github.com/luisajeronimo/luisajeronimo/blob/main/images/puffpuff.gif"" />
   <br>
-  
-  you'll find me in: <br>
-  <a href="https://www.linkedin.com/in/luisajeronimodelima/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> 
-  <a href="mailto:luisalima135@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-  <br>
-  <br>
-  <div>
-  ♡ 👩🏼‍💻 i'm studying daily: `restful apis`, `clean code`, `microservices`, `solid principles`, `scalable and high-performance systems` <br>
-  ♡ 🪡 i like to do crafts in my free time, ping me about ceramics, embroidery and arts in general <br>
-  ♡ ⚙️ tools that i'm working with right now: <br> <img height="35em"src="https://skillicons.dev/icons?i=docker,kubernetes,postman,javascript,react,java,spring,mysql,azure,aws,githubactions" /> <br></div>
-  <br>
-  <div>
-   <a href="https://github.com/luisajeronimo">
-   <img height="140em" src="https://github-readme-stats-luisa.vercel.app/api?username=luisajeronimo&rank_icon=github&show_icons=true&count_private=true&hide_border=true&theme=buefy"/>
-   <img height="140em" src="https://github-readme-stats-luisa.vercel.app/api/top-langs/?username=luisajeronimo&layout=compact&langs_count=10&hide_border=true&theme=buefy"/>
-  </div>
 
+  **♡ a little about me**<br>
+  i work with Ruby on Rails, building and maintaining systems for web scraping, data extraction, and public-data APIs.
+
+  **♡ tools & technologies**<br>
+  **👩🏼‍💻 currently working with:** Ruby, Ruby on Rails, Python, REST APIs, Docker, Kubernetes<br>
+  **development practices & interests:** AI-assisted development, agentic workflows, software architecture & automation<br>
+
+  **♡ beyond code**<br>
+  ♡ 🪡 i like to do crafts in my free time, ping me about ceramics, embroidery and arts in general <br>
+  
+  <img src="https://skillicons.dev/icons?i=ruby,rails,python,docker,kubernetes" alt="Technologies" height="40" /><br>
+  you'll find me in: <br>
   <br>
   <sub> ♡ made with all my tumblr html skills ♡ </sub>
-
-  
-
   
 </div>
