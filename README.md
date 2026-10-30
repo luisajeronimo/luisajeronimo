@@ -20,7 +20,6 @@
   ♡ 🪡 i like to do crafts in my free time, ping me about ceramics, embroidery and arts in general <br>
   
   <img src="https://skillicons.dev/icons?i=ruby,rails,python,docker,kubernetes" alt="Technologies" height="40" /><br>
-  you'll find me in: <br>
   <br>
   <sub> ♡ made with all my tumblr html skills ♡ </sub>
   
